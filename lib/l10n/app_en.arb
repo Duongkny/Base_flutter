@@ -1,0 +1,118 @@
+{
+  "@@locale": "en",
+
+  "appName": "BaseFlutter",
+
+  "getStartedTitle": "Welcome to HomeLove",
+  "getStartedDescription": "A place to treasure your moments of love",
+  "appDescription": "Together, let's treasure\nour most beautiful moments",
+  "getStartedButton": "Get Started",
+  "getStartedSignIn": "Already have an account? Sign In",
+
+  "onboardingMemoryTitle": "Treasure Your Memories",
+  "onboardingMemoryDescription": "Capture the special moments of your journey together",
+  "onboardingHabitsTitle": "Build Good Habits Together",
+  "onboardingHabitsDescription": "Plan, remind and experience more meaningful moments every day",
+  "onboardingConnectionTitle": "Grow Closer Together",
+  "onboardingConnectionDescription": "Share feelings, understand each other and build your own journey",
+  "skip": "Skip",
+  "createAccount": "Create Account",
+
+  "signIn": "Sign In",
+  "signInTitle": "Welcome back",
+  "signInWithGoogle": "Sign in with Google",
+  "dontHaveAccount": "Don't have an account?",
+  "signUpNow": "Sign up now",
+
+  "signUp": "Sign Up",
+  "signUpTitle": "Create your HomeLove account",
+  "startLoveJourney": "Start your journey of love",
+  "alreadyHaveAccount": "Already have an account?",
+  "signInNow": "Sign in now",
+  "agreeWith": "I agree to ",
+  "termsAndPrivacyPolicy": "Terms and Privacy Policy",
+
+  "email": "Email",
+  "emailHint": "Enter your email",
+  "password": "Password",
+  "passwordHint": "Enter your password",
+  "confirmPassword": "Confirm Password",
+  "confirmPasswordHint": "Re-enter your password",
+  "or": "or",
+
+  "forgotPassword": "Forgot Password?",
+  "forgotPasswordTitle": "Reset Password",
+  "forgotPasswordDescription": "Enter your email to receive password reset instructions",
+  "sendResetLink": "Send Reset Link",
+  "backToSignIn": "Back to Sign In",
+  "resetEmailSent": "Password reset instructions have been sent if the email exists in our system",
+
+  "otpTitle": "Enter Verification Code",
+  "otpDescription": "We have sent a 6-digit code to your email.",
+  "otpNotReceived": "Didn't receive the code?",
+  "verifyOtp": "Confirm",
+  "resendOtp": "Resend code",
+  "otpExpireMessage": "Resend code",
+  "theCodeWill": "Resend in {time}",
+  "@theCodeWill": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "otpInvalid": "Invalid verification code",
+  "otpExpired": "The verification code has expired",
+  "otpVerifySuccess": "Verification successful",
+  "otpResendSuccess": "A new verification code has been sent",
+  "invalidOtpLength": "OTP must contain exactly 6 digits",
+  "otpResending": "Resending...",
+  "invalidNumber": "Please enter a valid number",
+
+  "profileInformation": "Personal Information",
+  "profileInformationDescription": "Tell us a little more about yourself",
+  "fullName": "Full Name",
+  "fullNameHint": "Enter your full name",
+  "dateOfBirth": "Date of Birth",
+  "dateOfBirthHint": "Select your date of birth",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+  "nickname": "Nickname",
+  "nicknameHint": "Enter your nickname",
+  "address": "Address",
+  "addressHint": "Enter your address",
+  "phoneNumber": "Phone Number",
+  "phoneNumberHint": "Enter your phone number",
+  "avatar": "Profile Picture",
+  "chooseAvatar": "Choose Profile Picture",
+  "avatarTooLarge": "Profile picture must not exceed 5 MB",
+
+  "next": "Continue",
+  "back": "Back",
+  "complete": "Complete",
+  "save": "Save",
+  "cancel": "Cancel",
+  "loading": "Processing...",
+
+  "requiredField": "This field is required",
+  "invalidEmail": "Invalid email address",
+  "passwordTooShort": "Password must be at least 8 characters",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "invalidPhoneNumber": "Invalid phone number",
+  "termsRequired": "Please agree to the Terms of Service",
+
+  "signInSuccess": "Signed in successfully",
+  "signUpSuccess": "Account created successfully",
+  "profileUpdateSuccess": "Profile updated successfully",
+  "somethingWentWrong": "Something went wrong. Please try again",
+  "featureUnderDevelopment": "This feature is under development",
+
+  "resetPasswordTitle": "Reset Password",
+  "resetPasswordDescription": "Enter a new password for your account",
+  "newPassword": "New Password",
+  "newPasswordHint": "Enter new password (minimum 8 characters)",
+  "resetPasswordButton": "Update Password",
+  "resetPasswordSuccess": "Password reset successful! Please log in again."
+}

@@ -1,0 +1,118 @@
+{
+  "@@locale": "vi",
+
+  "appName": "BaseFlutter",
+
+  "getStartedTitle": "Chào mừng đến với HomeLove",
+  "getStartedDescription": "Nơi lưu giữ những khoảnh khắc yêu thương",
+  "appDescription": "Cùng nhau lưu giữ\nnhững khoảnh khắc đẹp nhất",
+  "getStartedButton": "Bắt đầu",
+  "getStartedSignIn": "Đã có tài khoản? Đăng nhập",
+
+  "onboardingMemoryTitle": "Lưu giữ khoảnh khắc",
+  "onboardingMemoryDescription": "Ghi lại những kỷ niệm đáng nhớ trong hành trình của hai bạn",
+  "onboardingHabitsTitle": "Cùng nhau tạo những thói quen tốt",
+  "onboardingHabitsDescription": "Nhắc nhở, lên kế hoạch và trải nghiệm nhiều điều ý nghĩa hơn mỗi ngày",
+  "onboardingConnectionTitle": "Kết nối sâu hơn",
+  "onboardingConnectionDescription": "Chia sẻ cảm xúc, hiểu nhau hơn và cùng xây dựng hành trình riêng",
+  "skip": "Bỏ qua",
+  "createAccount": "Tạo tài khoản",
+
+  "signIn": "Đăng nhập",
+  "signInTitle": "Chào mừng bạn quay trở lại",
+  "signInWithGoogle": "Đăng nhập với Google",
+  "dontHaveAccount": "Chưa có tài khoản?",
+  "signUpNow": "Đăng ký ngay",
+
+  "signUp": "Đăng ký",
+  "signUpTitle": "Tạo tài khoản HomeLove",
+  "startLoveJourney": "Bắt đầu hành trình yêu thương của bạn",
+  "alreadyHaveAccount": "Đã có tài khoản?",
+  "signInNow": "Đăng nhập ngay",
+  "agreeWith": "Tôi đồng ý với ",
+  "termsAndPrivacyPolicy": "Điều khoản và Chính sách bảo mật",
+
+  "email": "Email",
+  "emailHint": "Nhập email của bạn",
+  "password": "Mật khẩu",
+  "passwordHint": "Nhập mật khẩu",
+  "confirmPassword": "Xác nhận mật khẩu",
+  "confirmPasswordHint": "Nhập lại mật khẩu",
+  "or": "hoặc",
+
+  "forgotPassword": "Quên mật khẩu?",
+  "forgotPasswordTitle": "Khôi phục mật khẩu",
+  "forgotPasswordDescription": "Nhập email của bạn để nhận hướng dẫn đặt lại mật khẩu",
+  "sendResetLink": "Gửi liên kết đặt lại mật khẩu",
+  "backToSignIn": "Quay lại đăng nhập",
+  "resetEmailSent": "Hướng dẫn đặt lại mật khẩu đã được gửi nếu email tồn tại trong hệ thống",
+
+  "otpTitle": "Nhập mã xác thực",
+  "otpDescription": "Chúng tôi đã gửi mã 6 số đến email của bạn.",
+  "otpNotReceived": "Không nhận được mã?",
+  "verifyOtp": "Xác nhận",
+  "resendOtp": "Gửi lại mã",
+  "otpExpireMessage": "Gửi lại mã",
+  "theCodeWill": "Gửi lại sau {time}",
+  "@theCodeWill": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "otpInvalid": "Mã xác thực không hợp lệ",
+  "otpExpired": "Mã xác thực đã hết hạn",
+  "otpVerifySuccess": "Xác thực thành công",
+  "otpResendSuccess": "Đã gửi mã xác thực mới",
+  "invalidOtpLength": "Mã OTP phải gồm đúng 6 chữ số",
+  "otpResending": "Đang gửi lại...",
+  "invalidNumber": "Vui lòng nhập số hợp lệ",
+
+  "profileInformation": "Thông tin cá nhân",
+  "profileInformationDescription": "Hãy cho chúng mình biết thêm về bạn",
+  "fullName": "Họ và tên",
+  "fullNameHint": "Nhập họ và tên",
+  "dateOfBirth": "Ngày sinh",
+  "dateOfBirthHint": "Chọn ngày sinh",
+  "gender": "Giới tính",
+  "male": "Nam",
+  "female": "Nữ",
+  "other": "Khác",
+  "nickname": "Biệt danh",
+  "nicknameHint": "Nhập biệt danh",
+  "address": "Địa chỉ",
+  "addressHint": "Nhập địa chỉ",
+  "phoneNumber": "Số điện thoại",
+  "phoneNumberHint": "Nhập số điện thoại",
+  "avatar": "Ảnh đại diện",
+  "chooseAvatar": "Chọn ảnh đại diện",
+  "avatarTooLarge": "Ảnh đại diện không được vượt quá 5 MB",
+
+  "next": "Tiếp tục",
+  "back": "Quay lại",
+  "complete": "Hoàn thành",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "loading": "Đang xử lý...",
+
+  "requiredField": "Vui lòng nhập thông tin này",
+  "invalidEmail": "Email không hợp lệ",
+  "passwordTooShort": "Mật khẩu phải có ít nhất 8 ký tự",
+  "passwordsDoNotMatch": "Mật khẩu xác nhận không khớp",
+  "invalidPhoneNumber": "Số điện thoại không hợp lệ",
+  "termsRequired": "Vui lòng đồng ý với điều khoản sử dụng",
+
+  "signInSuccess": "Đăng nhập thành công",
+  "signUpSuccess": "Đăng ký thành công",
+  "profileUpdateSuccess": "Cập nhật thông tin thành công",
+  "somethingWentWrong": "Đã xảy ra lỗi. Vui lòng thử lại",
+  "featureUnderDevelopment": "Chức năng đang được phát triển",
+
+  "resetPasswordTitle": "Đặt lại mật khẩu",
+  "resetPasswordDescription": "Nhập mật khẩu mới cho tài khoản của bạn",
+  "newPassword": "Mật khẩu mới",
+  "newPasswordHint": "Nhập mật khẩu mới (tối thiểu 8 ký tự)",
+  "resetPasswordButton": "Cập nhật mật khẩu",
+  "resetPasswordSuccess": "Đặt lại mật khẩu thành công! Vui lòng đăng nhập lại."
+}
