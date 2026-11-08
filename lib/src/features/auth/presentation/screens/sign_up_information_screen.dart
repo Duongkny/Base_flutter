@@ -1,4 +1,4 @@
-﻿import 'dart:io';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -379,7 +379,7 @@ authBloc.add(
           SizedBox(height: 16.h),
 
           DropdownButtonFormField<String>(
-            value: _gender,
+            initialValue: _gender,
             isExpanded: true,
             decoration: InputDecoration(
               labelText: loc.gender,

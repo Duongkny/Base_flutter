@@ -1,4 +1,4 @@
-﻿import 'package:bloc/bloc.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:base_flutter/src/core/local_storage/app_local_storage.dart';
 import 'package:base_flutter/src/core/local_storage/local_storage_key.dart';
